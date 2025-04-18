@@ -50,6 +50,7 @@
 - 📟 [LCD-1602-library](https://github.com/QuangNhatvo/LCD-1602-library) – LCD display control in C
 - 🌡️ [dht22_library](https://github.com/QuangNhatvo/dht22_library) – DHT22 sensor C library
 - 💬 [djmemay-lcd](https://github.com/QuangNhatvo/djmemay-lcd) – Fun project, don’t ask 😆
+- 🚀 About the project written in golang please contact for more information!!!
 
 ---
 
