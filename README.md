@@ -12,7 +12,6 @@
 - 🌱 I’m currently diving into `C`, `C++`, and `Go`
 - 😴 Sleeping is not just a hobby, it's a lifestyle
 - 📫 Reach me at: [voquangnhat.hbt@gmail.com](mailto:voquangnhat.hbt@gmail.com)
-- 💡 I love exploring low-level programming and embedded systems
 
 ---
 
