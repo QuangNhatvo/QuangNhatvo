@@ -59,8 +59,3 @@
 - 💬 Favorite word while debugging: “Ơ kìa?”
 - 🚀 Dreaming of building something cool with bare-metal code.
 
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes" />
-</p>
