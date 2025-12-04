@@ -29,15 +29,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangnhatvo&show_icons=true&theme=radical" alt="quangnhatvo-stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=quangnhatvo&theme=dark&hide_border=true" alt="quangnhatvo-streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnhatvo&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
 
