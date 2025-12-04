@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently diving into `C`, `C++`, and `Go`
+- 🌱 I’m currently diving into `Golang` and`C`, `C++`
 - 😴 Sleeping is not just a hobby, it's a lifestyle
 - 📫 Reach me at: [voquangnhat.hbt@gmail.com](mailto:voquangnhat.hbt@gmail.com)
 
@@ -40,22 +40,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnhatvo&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
-
----
-
-### 🧰 Featured Projects
-
-- 🧪 [DoAnCuoiKy](https://github.com/QuangNhatvo/DoAnCuoiKy) – Final-year project in Python
-- 📟 [LCD-1602-library](https://github.com/QuangNhatvo/LCD-1602-library) – LCD display control in C
-- 🌡️ [dht22_library](https://github.com/QuangNhatvo/dht22_library) – DHT22 sensor C library
-- 💬 [djmemay-lcd](https://github.com/QuangNhatvo/djmemay-lcd) – Fun project, don’t ask 😆
-- 🚀 About the project written in golang please contact for more information!!!
-
----
-
-### 🐾 Random Facts
-
-- 🧸 I code better post-nap.
-- 💬 Favorite word while debugging: “Ơ kìa?”
-- 🚀 Dreaming of building something cool with bare-metal code.
 
