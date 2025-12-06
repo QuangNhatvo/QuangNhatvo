@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently diving into `Golang` and`C`, `C++`
+- 🌱 I’m currently diving into `Golang` and `C`, `C++`
 - 😴 Sleeping is not just a hobby, it's a lifestyle
 - 📫 Reach me at: [voquangnhat.hbt@gmail.com](mailto:voquangnhat.hbt@gmail.com)
 
